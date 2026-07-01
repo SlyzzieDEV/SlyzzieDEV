@@ -1,29 +1,66 @@
-<h1 align="center">Slyzzie™</h1><br>
-
+<h1 align="center">Hi 👋, I'm Slyzzie</h1>
+<h3 align="center">French Developer • FiveM • Minecraft • Web</h3>
 
 <p align="center">
-  <a href="https://discordapp.com/users/914534543971729498">My Discord</a> •
-  <a href="https://github.com/SlyzzieDev">My Github</a> •
-  <a href="https://discord.gg/9VY3qZUNKW">My server discord developer
+  <a href="https://discordapp.com/users/914534543971729498">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SlyzzieDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/9VY3qZUNKW">
+    <img src="https://img.shields.io/badge/Developer%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
-<b>Who I am ?</b><br/>
-I am passionate about video games and game servers. <br/>
-* <b>Server Developer -> </b>LUA / SQL <br/>
-* <b>Discord Developer -></b> JS <br/>
-* <b>Game Developer -></b> Five M 
-<br/><br/>
-* 💼 Currently working on [MyStock - NationsGlory/Discord ](https://discord.gg/JPDz6sh3F4) <br/>
-<br/>
-<br/>
+---
 
+## 👋 About Me
+
+- 🇫🇷 French developer
+- 💻 Passionate about game development and servers
+- 🚀 Currently working on **MyStock**
+- 🎮 FiveM Developer
+- 🌐 Web Developer
+- 🤖 Discord Bot Developer
+
+---
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,lua,js,nodejs,php,html,css,react,mysql,git,github,vscode,visualstudio"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔥 FiveM Framework
+- 🎮 Minecraft Projects
+- 🤖 Discord Bots
+- 🌍 Web Applications
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/filezilla/filezilla-plain-wordmark.svg" title="Filezilla" alt="Filezilla" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Sutdio 2019" alt="Visual Sutdio 2019" width="50" height="50"/>&nbsp;<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SlyzzieDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlyzzieDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlyzzieDev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
