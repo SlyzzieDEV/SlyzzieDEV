@@ -29,7 +29,7 @@
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,lua,js,nodejs,php,html,css,react,mysql,git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=java,lua,js,nodejs,php,html,css,react,mysql,git,github,vscode,idea"/>
 </p>
 
 ---
