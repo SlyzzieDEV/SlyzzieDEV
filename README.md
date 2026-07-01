@@ -19,7 +19,7 @@
 
 - 🇫🇷 French developer
 - 💻 Passionate about game development and servers
-- 🚀 Currently working on **MyStock**
+- 🚀 Currently working on **Fivem base**
 - 🎮 FiveM Developer
 - 🌐 Web Developer
 - 🤖 Discord Bot Developer
@@ -40,6 +40,7 @@
 - 🎮 Minecraft Projects
 - 🤖 Discord Bots
 - 🌍 Web Applications
+- 🖼️ Ai image generator
 
 ---
 
